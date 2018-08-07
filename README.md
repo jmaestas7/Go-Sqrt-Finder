@@ -1,5 +1,8 @@
 # Go-Sqrt-Finder
-A Simple CLI program that finds the square root of any flagged argument inputted using <b>"number"</b>
+A Simple CLI program that finds the square root of any flagged argument
+
+Go must be installed before using attempting to build, but the executable can be run independently if used properly.
+You can learn more about the awesome powers of Go <a href="https://golang.org/"> here</a>
 
 If not using the "main.exe", use the go build function to build the program.
 ``` Go
